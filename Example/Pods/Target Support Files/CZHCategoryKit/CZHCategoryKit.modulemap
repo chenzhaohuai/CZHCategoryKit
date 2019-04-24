@@ -1,0 +1,6 @@
+framework module CZHCategoryKit {
+  umbrella header "CZHCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

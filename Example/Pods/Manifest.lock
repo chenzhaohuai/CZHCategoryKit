@@ -1,0 +1,16 @@
+PODS:
+  - CZHCategoryKit (0.0.1)
+
+DEPENDENCIES:
+  - CZHCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  CZHCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CZHCategoryKit: b02198698eb945c2a83c28f50cdd0a21315b4395
+
+PODFILE CHECKSUM: f36adbe4a4c3db805353bc59b9a3aa9f70147bc1
+
+COCOAPODS: 1.5.3
